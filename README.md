@@ -30,33 +30,23 @@ Sigue estos pasos para instalar el proyecto en tu entorno local:
    git clone https://github.com/tu-usuario/examen-acceso-clikalia.git
 Navega al directorio del proyecto:
 
-bash
-Copiar código
+
 cd examen-acceso-clikalia
 Instala las dependencias:
 
-bash
-Copiar código
 npm install
 Configura las variables de entorno: Crea un archivo .env en la raíz del proyecto y añade las configuraciones necesarias.
 
 Uso
 Para ejecutar el proyecto, utiliza el siguiente comando:
-
-bash
-Copiar código
-npm start
 Esto iniciará el servidor y podrás acceder a la aplicación en http://localhost:3000.
 
 Pruebas
 Para ejecutar las pruebas unitarias, utiliza:
 
-bash
-Copiar código
 npm test
 Estructura del Proyecto
-bash
-Copiar código
+
 examen-acceso-clikalia/
 │
 ├── src/                  # Código fuente de la aplicación
@@ -78,12 +68,8 @@ Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
 Realiza tus cambios y haz un commit (git commit -m 'Añadir nueva funcionalidad').
 Envía un pull request.
 Licencia
+
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-bash
-Copiar código
-
-Este README incluye los pasos necesarios para ejecutar, probar y contribuir al proyecto, siguiendo buenas prácticas de desarrollo.
 
 
 
